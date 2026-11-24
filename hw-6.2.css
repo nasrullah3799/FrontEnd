@@ -1,0 +1,34 @@
+.parallelogram1 {
+  width: 15rem;
+  height: 10rem;
+  background: #46e590;
+  transform: skewX(-20deg);
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  margin:4rem;
+  border-radius: 2rem;
+  border: .5rem solid rgb(224, 140, 140);
+}
+
+.parallelogram1 span {
+  transform: skewX(20deg); 
+  color: white;
+}
+.parallelogram2{
+    width: 15rem;
+    height: 3rem;
+    background-color: aqua;
+    transform: skewX(-20deg);
+    margin: auto;
+    border-bottom-right-radius: 2rem;
+    border-top-left-radius: 0.5rem;
+    /* display:flex;
+    align-items:center;
+    justify-content:center; */
+    border: 2.5 solid blue;
+}
+.parallelogram2 span{
+  transform: skewX(20deg); 
+  color: rgb(146, 60, 85);
+}
