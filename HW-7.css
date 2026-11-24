@@ -22,3 +22,15 @@ body{
     border-radius: 0.5rem;
     margin-top: 1rem;
 }
+.Parallelogram{
+    margin: 5rem;
+    height: 4rem;
+    width: 16rem;
+    transform: skewX(-20deg);
+    border: solid .5rem black;
+    border-radius: 1rem;
+}
+.Parallelogram p{
+    padding-left: 4rem;
+    padding-top:1rem;
+}
