@@ -1,0 +1,16 @@
+.box {
+    width: 300px;
+    height: 150px;
+    color:lightblue;
+    overflow: auto;
+}
+#name {
+    color:#FF0000;
+}
+p {
+    font-size: 32px;
+    
+}
+#blue {
+    color:rgb(95, 95, 250);
+}
