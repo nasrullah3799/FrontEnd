@@ -1,0 +1,39 @@
+body {
+  font-family: "Figtree", sans-serif;
+}
+
+code, pre {
+  font-family: "Cascadia Mono", monospace;
+}
+
+article p {
+  color: rgb(6, 6, 169);
+}
+
+article > p {
+  background-color: rgb(238, 238, 12);
+}
+
+h3 + p {
+  font-weight: 700;
+}
+
+h3 ~ p {
+  text-decoration: underline;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+#note {
+  text-transform: capitalize;
+}
+
+.box p {
+  text-transform: lowercase;
+}
+
+#sub {
+  text-transform: none;
+}
