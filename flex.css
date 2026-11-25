@@ -75,3 +75,18 @@ button:hover {
 body{
     background: skyblue;
 }
+#brand{
+    color:aqua;
+    text-decoration: none;
+    
+}
+.hero{
+    padding:1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.hero p{
+    padding: 4rem 7rem;
+    font-size: 5rem;
+    font-family:"Momo Signature" ;
+}
